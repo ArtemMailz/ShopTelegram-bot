@@ -1,0 +1,6 @@
+venv/
+.env
+libraries_used.txt
+README.md
+__pycache__
+.vscode
