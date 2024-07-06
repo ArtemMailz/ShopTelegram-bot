@@ -3,7 +3,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 menu_type = InlineKeyboardMarkup(inline_keyboard =
   [
-    [InlineKeyboardButton(text = 'Наш канал⭐', url = 'https://t.me/amugramu1')],
+    [InlineKeyboardButton(text = 'Наш канал⭐', url = 'https://')],
     [InlineKeyboardButton(text = 'Мои заказы🛒', callback_data = 'my_order')],
     [InlineKeyboardButton(text = 'Каталог✏️', callback_data = 'catalog_chapters')],
     [InlineKeyboardButton(text = 'Обратиться в тех. поддержку✅', callback_data = 'texpod')]
